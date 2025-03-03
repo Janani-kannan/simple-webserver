@@ -62,7 +62,8 @@ Testing the webserver.
 </body>
 </html>
 
-```00 00-
+```
+
 ## OUTPUT:
 ![output](./static/Screenshot%20(98).png)
 
