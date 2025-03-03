@@ -22,9 +22,49 @@ Serving the HTML pages.
 Testing the webserver.
 
 ## PROGRAM:
+ ```html
 
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>28th table</title>
+</head>
+<body>
+    <h1>webserver</h1>
 
+    <table border='1'>
+    <tr>
+        <th>Name</th>
+        <th>register number</th>
+        <th>department</th>
+    </tr>
+    <tr>
+        <td>Janani K</td>
+        <td>212224230102</td>
+        <td>AIDS</td>
+    </tr>    
+</table>
+<br>
+<h2>table 28</h2>
+<p>28 x 1  = 28</p>
+<p>28 x 2  = 56</p>
+<p>28 x 3  = 84</p>
+<p>28 x 4  = 112</p>
+<p>28 x 5  = 140</p>
+<p>28 x 6  = 168</p>
+<p>28 x 7  = 196</p>
+<p>28 x 8  = 224</p>
+<p>28 x 9  = 252</p>
+<p>28 x 10 = 280</p>
+
+</body>
+</html>
+
+```00 00-
 ## OUTPUT:
+![output](./static/Screenshot%20(98).png)
 
 
 ## RESULT:
